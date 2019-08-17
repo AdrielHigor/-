@@ -1,0 +1,1 @@
+O programa foi dividido em duas partes, uma parte dedicada a interface, o 'main.py', e outra dedicada a criptografia em si, 'crypto_sim.py'. A interface foi desenvolvida com tkinter e testado apenas em sistemas operacionais windows, alguns recursos podem não funcionar corretamente em sistemas mac ou linux, porém a parte de criptografia não depende da interface. -Adriel
